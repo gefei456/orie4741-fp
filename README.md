@@ -1,6 +1,6 @@
 # ORIE 4741 Project
-project name: Sports Predictions
+Project Name: Sports Predictions
 
-names, netid: tomas alvarez, ta352; rafael chaves, rvc29; benjamin yeh, by253
+Group Members: Tomas Alvarez(ta352); Rafael Chaves(rvc29); Benjamin Yeh(by253)
 
-project description: We would like to create a model that can create profitable betting strategies on sports events.
+Project Description: We would like to create a model that can create profitable betting strategies on sports events.
