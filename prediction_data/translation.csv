@@ -12,7 +12,7 @@
 11,阿斯科利,Ascoli,,两球半,-2.5
 12,维拉,Aston Villa,,两球半/三球,-2.75
 13,亚特兰大,Atalanta,,三球,-3
-14,毕尔巴鄂竞技,Ath Bilbao,,三球/三球半,-3.25
+14,毕尔巴鄂,Ath Bilbao,,三球/三球半,-3.25
 15,马竞,Ath Madrid,,三球半,-3.5
 16,奥格斯堡,Augsburg,,三球半/四球,-3.75
 17,欧塞尔,Auxerre,,四球,-4
@@ -74,7 +74,7 @@
 73,弗罗西诺内,Frosinone,,,
 74,富勒姆,Fulham,,,
 75,热那亚,Genoa,,,
-76,赫塔菲,Getafe,,,
+76,赫塔费,Getafe,,,
 77,吉罗纳,Girona,,,
 78,格拉纳达,Granada,,,
 79,格勒诺布尔,Grenoble,,,
@@ -104,10 +104,10 @@
 103,哈弗,Le Havre,,,
 104,勒芒,Le Mans,,,
 105,莱切,Lecce,,,
-106,利兹,Leeds,,,
+106,利兹联,Leeds,,,
 107,莱加内斯,Leganes,,,
-108,莱斯特城,Leicester,,,
-109,兰斯,Lens,,,
+108,莱切斯特,Leicester,,,
+109,朗斯,Lens,,,
 110,莱万特,Levante,,,
 111,勒沃库森,Leverkusen,,,
 112,里尔,Lille,,,
@@ -116,7 +116,7 @@
 115,洛里昂,Lorient,,,
 116,卢顿,Luton,,,
 117,里昂,Lyon,,,
-118,门兴格拉德巴赫,M'gladbach,,,
+118,门兴,M'gladbach,,,
 119,美因茨,Mainz,,,
 120,马拉加,Malaga,,,
 121,马洛卡,Mallorca,,,
@@ -191,10 +191,10 @@
 190,特鲁瓦,Troyes,,,
 191,乌迪内斯,Udinese,,,
 192,柏林联合,Union Berlin,,,
-193,瓦伦西亚,Valencia,,,
+193,巴伦西亚,Valencia,,,
 194,瓦朗谢讷,Valenciennes,,,
 195,巴利亚多,Valladolid,,,
-196,瓦莱卡诺,Vallecano,,,
+196,巴列卡诺,Vallecano,,,
 197,威尼斯,Venezia,,,
 198,维罗纳,Verona,,,
 199,比利亚雷,Villarreal,,,
@@ -203,7 +203,7 @@
 202,西布朗,West Brom,,,
 203,西汉姆联,West Ham,,,
 204,维冈,Wigan,,,
-205,沃尔夫斯堡,Wolfsburg,,,
+205,沃夫斯堡,Wolfsburg,,,
 206,狼队,Wolves,,,
 207,赫雷斯,Xerez,,,
 208,萨拉戈萨,Zaragoza,,,
